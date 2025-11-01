@@ -9,7 +9,7 @@
 </p>
 
 # 📖 About me 
-<p>I'm an IT student driven by passion and eagerness to learn, create, explore web development and other fields within IT industry. I often practice and learn every day to obtain the knowledge that I don't have and solidify the knowledge that I currently have. I strive to gain experience and knowledge to become a valuable and an effective collaborator.</p> 
+<p>I'm an IT graduate driven by passion and eagerness to learn, create, explore web development and other fields within IT industry. I often practice and learn every day to obtain the knowledge that I don't have and solidify the knowledge that I currently have. I strive to gain experience and knowledge to become a valuable and an effective collaborator.</p> 
 
 # 💻 Skills:
 <div align="center">
